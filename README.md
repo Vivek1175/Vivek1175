@@ -1,5 +1,27 @@
 # 💫 About Me:
-I am pursuing B.Tech CSE (Data Science) from Lovely professional University<br>i am in 3rd year now. <br>my Speclization in Data Science.<br>I have done many projects (Created attractive dashboard ,analysis data using Excel and PowerBI ) also pridictive analysis.<br>Looking a job that match my skills. also i am profficient with marketing managment.
+# Hi there, I'm Vivek Sharma 👋
+
+### 📊 Data Science Student | Marketing Enthusiast | Visual Storyteller
+I am a 3rd-year B.Tech CSE (Data Science) student at **Lovely Professional University**. I specialize in transforming raw data into actionable insights through predictive modeling and interactive storytelling. 
+
+I bridge the gap between **Technical Data Analysis** and **Marketing Strategy**, helping businesses understand not just *what* happened, but *why* and *what to do next*.
+
+---
+
+### 🛠️ Technical Toolkit
+* **Languages:** Python (Pandas, Scikit-learn), SQL
+* **Data Visualization:** Power BI, Excel (Advanced)
+* **Analysis:** Predictive Modeling, Statistical Analysis, EDA
+* **Domain Knowledge:** Marketing Management, Consumer Behavior, Market Research
+
+### 🚀 Featured Projects
+* **[EV Sales analysis]:** Predictive analysis using Python to forecast.
+* **[Mobile Sales Dashboard]:** Interactive Power BI Dashboard for [Sales/Marketing] data visualization.
+* **[EV analysis Dashboard]:** Market analysis report combining Excel data processing and marketing frameworks.
+
+---
+
+
 
 
 ## 🌐 Socials:
